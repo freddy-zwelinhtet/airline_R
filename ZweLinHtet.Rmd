@@ -1,6 +1,6 @@
 ---
 title: 'R markdown for ST2195 Programming for Data Science Coursework'
-author: "210500620"
+author: "Zwe Lin Htet (Freddy)"
 date: "3/30/2022"
 output: html_document
 ---
